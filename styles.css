@@ -161,3 +161,18 @@ textarea{
   font-size: 25px;
   color: #ffffff;
 }
+.footer{
+  display: flex;
+  margin-top: -100px;
+}
+.footer-img{
+  width: 150px;
+  height: 150px;
+}
+.footer-text{
+  color: rgb(203, 203, 203);
+  font-size: 16px;
+}
+.footer div{
+  margin-left: 20px;
+}
